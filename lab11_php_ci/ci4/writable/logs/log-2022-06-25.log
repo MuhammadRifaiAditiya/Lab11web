@@ -103,3 +103,73 @@ in APPPATH\Controllers\Home.php on line 10.
 12 SYSTEMPATH\CodeIgniter.php(345): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
 13 SYSTEMPATH\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
 14 ROOTPATH\spark(86): CodeIgniter\CLI\Console->run()
+CRITICAL - 2022-06-25 05:54:46 --> Invalid file: artikel/admin_index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('artikel/admin_index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('artikel/admin_index', [], true)
+ 3 APPPATH\Controllers\Artikel.php(36): view('artikel/admin_index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Artikel->admin_index()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Artikel))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-06-25 05:55:10 --> Invalid file: artikel/admin_index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('artikel/admin_index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('artikel/admin_index', [], true)
+ 3 APPPATH\Controllers\Artikel.php(36): view('artikel/admin_index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Artikel->admin_index()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Artikel))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-06-25 06:01:09 --> Invalid file: artikel/admin_index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('artikel/admin_index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('artikel/admin_index', [], true)
+ 3 APPPATH\Controllers\Artikel.php(36): view('artikel/admin_index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Artikel->admin_index()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Artikel))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-06-25 06:01:11 --> Invalid file: artikel/admin_index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('artikel/admin_index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('artikel/admin_index', [], true)
+ 3 APPPATH\Controllers\Artikel.php(36): view('artikel/admin_index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Artikel->admin_index()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Artikel))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-06-25 06:08:18 --> Invalid file: artikel/form_add.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('artikel/form_add.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('artikel/form_add', [], true)
+ 3 APPPATH\Controllers\Artikel.php(56): view('artikel/form_add', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Artikel->add()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Artikel))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-06-25 06:08:28 --> Invalid file: artikel/form_add.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('artikel/form_add.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('artikel/form_add', [], true)
+ 3 APPPATH\Controllers\Artikel.php(56): view('artikel/form_add', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Artikel->add()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Artikel))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-06-25 06:37:53 --> Invalid file: user/login.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/login.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('user/login', [], true)
+ 3 APPPATH\Controllers\user.php(24): view('user/login')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->login()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
